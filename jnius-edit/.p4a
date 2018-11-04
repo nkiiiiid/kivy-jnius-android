@@ -1,0 +1,15 @@
+--dist_name pyedit
+--android_api 19
+--sdk_dir /home/kivydev/andr/android-sdk-linux
+--ndk_dir /home/kivydev/andr/android-ndk-r16b
+--ndk_version 16
+
+--requirements python2,kivy,android,pyjnius
+--private .
+--package com.nkedit.app
+--name pyedit
+--version 2.0 
+--bootstrap sdl2 
+
+--arch armeabi-v7a
+--window
