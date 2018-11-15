@@ -182,3 +182,7 @@ javap -s -classpath android.jar android.app.Activity
 
 
 代码和打包的apk已经上传，供测试。
+
+#### **大佬们救救孩子吧，现在可以捐助作者了，捐助我有机会看到更多教程。**
+
+<img src="https://i.imgur.com/94DkJbs.jpg" width = "600" height = "350" alt="捐助up" align=center />
